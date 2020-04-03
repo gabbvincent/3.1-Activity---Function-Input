@@ -9,7 +9,7 @@ func addNumbers(input1 int, input2 int){
 }
 
 func subNumbers(input1 int, input2 int){
- fmt.Println(input1, "/", input2, "=", input1/input2)
+ fmt.Println(input1, "/", input2, "=", input2/input1)
 }
 
 func main() {
